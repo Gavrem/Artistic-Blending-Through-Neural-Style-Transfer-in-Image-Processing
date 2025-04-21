@@ -1,0 +1,15 @@
+{
+    "content_image": "/content/drive/My Drive/GSU/Spring 2025/CSC 8260 Adv Img Prc/Project/images/input/YellowLabradorLooking.jpg",
+    "style_image": "/content/drive/My Drive/GSU/Spring 2025/CSC 8260 Adv Img Prc/Project/images/style/Vassily.jpg",
+    "content_weight": 100000.0,
+    "style_weight": 100000.0,
+    "tv_weight": 1e-06,
+    "style_layer_weights": {
+        "block1_conv1": 10,
+        "block2_conv1": 10,
+        "block3_conv1": 0.001,
+        "block4_conv1": 0.001,
+        "block5_conv1": 1
+    },
+    "num_iterations": 1000
+}
